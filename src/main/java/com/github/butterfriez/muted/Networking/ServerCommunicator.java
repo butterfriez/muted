@@ -18,7 +18,7 @@ public class ServerCommunicator {
         String username = session.getUsername();
 
         try {
-            this.serverURI = new URI("ws://localhost:8080/ws");
+            this.serverURI = new URI("wss://muted-websocket-4542672775.us-central1.run.app/ws");
         } catch (java.net.URISyntaxException e) {
             throw new RuntimeException("Invalid URI provided", e);
         }
