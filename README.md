@@ -38,7 +38,7 @@ Displays usage information for available commands. Use this for guidance on how 
 
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under the GPL-3.0 license.
 
 ---
 
